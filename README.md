@@ -26,8 +26,6 @@ No git binary is needed to get an archive from GitHub, thanks to their [download
 
 -----
 
-[`ligemer`][5] proposed [in an edit][6] the following example:
-
 **Edit 2016-08-25 - Shell Example With Wget, Variables, and Untar:**
 
     #!/bin/bash -ex
@@ -47,8 +45,6 @@ Call via:
 Above command will download and extract the Github folder to the same directory as the script.
 
 ---
-
-[Diogo Quintela][7] suggests [in the comments][8]:
 
 > The following example allow the download, extract and cut the top level directory 
 
